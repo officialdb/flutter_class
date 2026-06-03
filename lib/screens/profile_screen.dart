@@ -44,7 +44,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
 
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
-        child: Icon(icon),
+        child: Icon(Icons.edit),
       ),
     );
   }
